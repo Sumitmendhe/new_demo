@@ -1,4 +1,4 @@
 # new_demo
 this is my first repository
 <br>
-Author-sumit mendhe
+Author-sumit ( shri shivaji science college )
